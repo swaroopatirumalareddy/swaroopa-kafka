@@ -35,12 +35,12 @@
 #### Window 4
 - In fourth window I have Run Kafka Producer for writing messages
 - Command:
-- 
+
 .\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic alex-messages
 #### Window 5
 
 - In fifth window I have  Run Kafka Consumer which displays messages from the beginning
 - Command
--
+
 .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic alex-messages --from-beginning
 
