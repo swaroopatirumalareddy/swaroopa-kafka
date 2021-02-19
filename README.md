@@ -17,7 +17,9 @@
 #### Window 1 
 - First, I have Run Zookeeper Service and I kept window open
 - Command:
+
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
 #### Window 2
 - In second window I have Run Kafka Service and I kept window open
 - Command:
